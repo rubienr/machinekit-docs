@@ -473,7 +473,7 @@ setp   scale.axis.1.offset  0
 setp   scale.axis.2.offset  0
 
 # load toggle component for mist and flood
-loadrt toggle2nist names=mist,flood
+loadrt toggle2nist names=toggle2nist.mist,toggle2nist.flood
 
 # ######################################################################
 # pendant signal configuration
